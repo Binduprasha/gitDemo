@@ -1,7 +1,7 @@
 public class TestGit{
-   public static void main(String args[]){
+   public static void main(String args){
 
-    String message="Hey Hai";
+    
      System.out.println(message);
 
      
